@@ -1,0 +1,12 @@
+module log();
+
+
+
+
+
+
+
+
+
+
+endmodule
